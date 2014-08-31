@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 """Prints a ``Hello World`` statement."""
 
-print ("Hello apag101!")
+print "Hello apag101!"
